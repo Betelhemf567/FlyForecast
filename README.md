@@ -164,7 +164,7 @@ The application is deployed on the following servers:
 - **Server Downtime Resilience:** The load balancer ensures users can still access the application if one server is down.
 
 ## Demo Video
-**Demo Video**: [https://youtu.be/SawBxIhbiZY]()  
+**Demo Video**: [https://youtu.be/SawBxIhbiZY] 
 The demo video (under 2 minutes) showcases:
 - Running the application locally by opening `index.html`.
 - Navigating to `popular.html` to view weather for popular cities.
